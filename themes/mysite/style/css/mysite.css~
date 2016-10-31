@@ -1,0 +1,49 @@
+header {
+  overflow: hidden;
+  width: 1400px;
+  margin: 0 auto;
+}
+header .region-top-menu {
+  overflow: hidden;
+}
+header .region-top-menu #block-mysite-main-menu {
+  float: left;
+}
+header .region-top-menu #block-mysite-account-menu {
+  float: left;
+}
+header .region-top-menu #block-socials-2 {
+  float: right;
+}
+header #block-mysite-search {
+  float: right;
+}
+header #logo {
+  margin: 0 auto;
+}
+
+header #block-socials-2{
+	margin-right: 20px;
+}
+
+footer {
+  width: 1400px;
+  margin: 0 auto;
+}
+
+content {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.site-logo img {
+    border: solid 5px white;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 190px;
+    left: 620px;
+    max-width: 130px;
+}
+
+
+

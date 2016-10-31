@@ -1,0 +1,12 @@
+.region-top-menu {
+  overflow: hidden;
+}
+.region-top-menu #block-drupal-account-menu {
+  float: left;
+}
+.region-top-menu #block-mainnavigation {
+  float: left;
+}
+.region-top-menu #block-social {
+  float: right;
+}
