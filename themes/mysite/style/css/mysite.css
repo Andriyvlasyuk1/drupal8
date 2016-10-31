@@ -12,7 +12,7 @@ header .region-top-menu #block-mysite-main-menu {
 header .region-top-menu #block-mysite-account-menu {
   float: left;
 }
-header .region-top-menu #block-socials-2 {
+header .region-top-menu #block-mysite-social {
   float: right;
 }
 header #block-mysite-search {
@@ -45,5 +45,8 @@ main {
     max-width: 130px;
 }
 
+#block-mysite-mainnavigation{
+float: left;
+}
 
 

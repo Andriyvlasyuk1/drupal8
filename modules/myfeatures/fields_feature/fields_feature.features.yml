@@ -1,0 +1,19 @@
+excluded:
+  - drupal_.layout.primary
+  - drupal_.layout.primary.generated
+  - drupal_.omega-layouts
+  - drupal_.region_groups
+  - drupal_.settings
+  - block.block.drupal__account_menu
+  - block.block.drupal__branding
+  - block.block.drupal__breadcrumbs
+  - block.block.drupal__content
+  - block.block.drupal__google_2
+  - block.block.drupal__help
+  - block.block.drupal__local_actions
+  - block.block.drupal__local_tasks
+  - block.block.drupal__messages
+  - block.block.drupal__pdf
+  - block.block.drupal__search
+  - block.block.drupal__tools
+required: true
